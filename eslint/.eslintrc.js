@@ -16,6 +16,8 @@ module.exports = {
         'react/jsx-uses-vars': 1,
         'quotes': ['error', 'single'],
         'strict': ['error', 'global'],
-        'max-len': ['error', 200]
+        'max-len': ['error', 200],
+        'require-jsdoc': 0,
+        'space-infix-ops': ['error', {'int32Hint': false}]
     }
 }
