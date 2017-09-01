@@ -18,6 +18,10 @@ module.exports = {
         'strict': ['error', 'global'],
         'max-len': ['error', 200],
         'require-jsdoc': 0,
-        'space-infix-ops': ['error', {'int32Hint': false}]
+        'space-infix-ops': ['error', {'int32Hint': false}],
+        'no-console': 'warn',
+        'newline-after-var': ['error', 'always'],
+        'no-else-return': 'error',
+        'no-unreachable': 'error
     }
 }
