@@ -22,6 +22,6 @@ module.exports = {
         'no-console': 'warn',
         'newline-after-var': ['error', 'always'],
         'no-else-return': 'error',
-        'no-unreachable': 'error
+        'no-unreachable': 'error'
     }
 }
