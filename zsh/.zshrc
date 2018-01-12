@@ -20,7 +20,7 @@ POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
 # Elements on left side
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon root_indicator status context dir)
 # Elements on right side
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(vcs battery time)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(vcs node_version battery time)
 # Customize directory separator
 POWERLEVEL9K_DIR_PATH_SEPARATOR=" $(print "\ue0b1") "
 
